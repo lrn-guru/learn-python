@@ -10,7 +10,7 @@
 			"completion": "So far so good. You can now access python on the command line",
 			"tasks": [
 				{
-					"instruction": "lets open the python interpreter and play around. type 'python' and press enter",
+					"instruction": "Let's open the python interpreter and play around. Type 'python' and press enter",
 					"hint": "type python",
 					"test": "python"
 				}
