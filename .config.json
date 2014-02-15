@@ -1,6 +1,7 @@
 {
 	"name": "python",
 	"short_description": "An introduction to the scripting language Python",
+	"introduction": "In this tutorial we will discuss Python features and by the end you will write a script that checks the news for you.",
 	"difficulty": 1,
 	"lessons": [
 		{
