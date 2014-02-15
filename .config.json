@@ -11,7 +11,7 @@
 			"tasks": [
 				{
 					"instruction": "Let's open the python interpreter and play around. Type 'python' and press enter",
-					"hint": "type python",
+					"hint": "Type `python` and press enter.",
 					"test": "python"
 				}
 			]
