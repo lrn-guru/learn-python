@@ -1,17 +1,17 @@
 {
 	"name": "python",
 	"short_description": "An introduction to the scripting language Python",
-	"difficulty": 2,
+	"difficulty": 1,
 	"lessons": [
 		{
 			"name": "Getting Started",
 			"branch": "getting-started",
-			"completion": "So far so good. You now have a functioning Django server. In the next lesson, we'll create our first webpage.",
+			"completion": "So far so good. You can now access python on the command line",
 			"tasks": [
 				{
-					"instruction": "First, use pip to install Django.",
-					"hint": "Enter `sudo pip install django`.",
-					"test": "pip_install"
+					"instruction": "lets open the python interpreter and play around. type 'python' and press enter",
+					"hint": "type python",
+					"test": "python"
 				}
 			]
 		}
